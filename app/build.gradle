@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "app.z0nen.menu"
         minSdkVersion 22
-        targetSdkVersion 23
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
